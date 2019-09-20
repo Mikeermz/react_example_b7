@@ -1,11 +1,8 @@
 import React from 'react';
-// import './style.css';
+import './style.css';
 
 const Footer = () => (
-  <p> Miguel Ramirez</p>
+  <p className="App-Footer"> Miguel Ramirez</p>
 );
 
 export default Footer;
-
-
-
